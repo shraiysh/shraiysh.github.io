@@ -8,9 +8,9 @@ I am a Compiler Enginner at AMD, currently working on the Fortran team for HPC w
 
 ## Research Interests
 
- [-] Compilers
- [-] Programming Languages
- [-] Program Verification
+ - Compilers
+ - Programming Languages
+ - Program Verification
 
 ## Internships and Experience
 
@@ -58,6 +58,6 @@ I am a Compiler Enginner at AMD, currently working on the Fortran team for HPC w
  2. Completed three years of certified classroom program of Abacus by BrainOBrain (2011-14)
 
 ## Contact
- [-] Mail - [shraiysh@gmail.com](mailto:shraiysh@gmail.com)
- [-] GitHub - [github.com/shraiysh](https://www.github.com/shraiysh)
- [-] LinkedIn - [linkedin.com/in/shraiysh](https://www.linkedin.com/in/shraiysh)
+ - Mail - [shraiysh@gmail.com](mailto:shraiysh@gmail.com)
+ - GitHub - [github.com/shraiysh](https://www.github.com/shraiysh)
+ - LinkedIn - [linkedin.com/in/shraiysh](https://www.linkedin.com/in/shraiysh)
