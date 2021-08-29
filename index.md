@@ -13,7 +13,7 @@ a [CSE IITH](https://cse.iith.ac.in/) Alumnus and I play Table Tennis.
 ## Internships and Experience
 
  1. System Design Engineer 2 at [AMD](https://www.amd.com/en) (June'20 - Present)
-    : Working on Fortran (with OpenMP) for HPC Applications
+    : Working on Fortran (with OpenMP) for HPC Applications.
  2. Research Internship at [Adobe](https://research.adobe.com/) (May'20 - July'20)
     : Worked with a team of five others, on generating a visual profile of (attribute, object) combinations using compositionality and context and leverage them for enhanced image editing applications based on textual user input.
  3. Summer Internship at [NTT-Advanced Technology Corp, Japan](https://www.ntt-at.com/) (May'19-July'19)
@@ -25,15 +25,32 @@ a [CSE IITH](https://cse.iith.ac.in/) Alumnus and I play Table Tennis.
 
  1. Sparsh Mittal, and Shraiysh Vaishay. "A survey of techniques for optimizing deep learning on GPUs." Journal of Systems Architecture 99 (2019): 101635.
 
-## Projects
+## Projects and Open Source Contributions
 
  1. [Hoare-Logic Verifier](https://github.com/shraiysh/hoare-logic)
-    : Contract verification - interpreter for language and array logic for classroom demonstration of the application of Hoare logic on a simple programming language and verify its correctness (using lex/yacc)
+    : Contract verification - interpreter for language and array logic for classroom demonstration of the application of Hoare logic on a simple programming language and verify its correctness (using lex/yacc).
  2. [Code-Compliance](https://github.com/sbjoshi/code-compliance)
     : Worked on a static analysis of C/C++ programs (Code Compliance) using Clang/LLVM. Verified a subset of rules from certification standards like CERT, MISRA etc.
  3. [COOL - Classroom Object Oriented Language](https://github.com/shraiysh/CoolSemanticAnalyzer)
-    : Worked on semantic analyzer and LLVM IR code generator for COOL as a part of classroom project (The code generator is a private repository)
- 4. [HasQL](https://github.com/shraiysh/HaSSQL)
-    : Built query handlers (back-end) for a local database system with a simple query language, using functional programming in Haskell
- 5. [GoTorrent](https://github.com/shraiysh/GoTorrent)
+    : Worked on writing Lexer, Parser, Semantic Analyzer and LLVM IR code generator for COOL as a part of classroom project (The code generator is a private repository).
+ 4. [LLVM/MLIR Contributions](https://reviews.llvm.org/people/revisions/19492/)
+    : Worked on translation of LLVM Dialect in MLIR to LLVM IR facilitating wider code and target coverage for MLIR.
+ 5. [HasQL](https://github.com/shraiysh/HaSSQL)
+    : Built query handlers (back-end) for a local database system with a simple query language, using functional programming in Haskell.
+ 6. [GoTorrent](https://github.com/shraiysh/GoTorrent)
     : Built messages and handled concurrent downloads of file fragments for a BitTorrent client in Go. Features include concurrent download from peers, concurrent download of multiple torrents and handling of abrupt termination of download.
+
+## Skills
+
+ 1. Compilers and Programming Languages
+    : Experienced with Compiler Design. Worked with LLVM, MLIR, Clang and Flang. Designed and worked on a language for verifying simple programs using hoare logic. Also worked on COOL Compiler.
+ 2. Languages
+    : Familiar with a wide range of languages including C/C++, Python, Go and Java. Well versed in functional programming in Haskell.
+ 3. Git
+    : Strong knowledge of project management in teams, experienced with open source contributions.
+ 4. Systems engineering
+    : Server, network and storage administration, virtualization and containers, and experience with AWS.
+
+## Extracurricular
+ 1. Member of NSO(National Sports Organisation) at IIT Hyderabad (Table-Tennis)
+ 2. Completed three years of certified classroom program of Abacus by BrainOBrain (2011-14)
