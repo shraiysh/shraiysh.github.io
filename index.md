@@ -5,10 +5,16 @@ layout: default
 ## About me
 
 I am a Compiler Enginner at AMD, currently working on the Fortran team for HPC
-workloads. I have worked on static data race detection for OpenMP programs(LLVM)
+workloads. I am working on static data race detection for OpenMP programs(LLVM)
 and on static analysis of C/C++ code for coding standards. I have also worked on
 MLIR. I am also interested in Programming Languages and Operating Systems. I am
 a [CSE IITH](https://cse.iith.ac.in/) Alumnus and I play Table Tennis.
+
+## Research Interests
+
+ 1. Compilers
+ 2. Programming Languages
+ 3. Program Verification
 
 ## Internships and Experience
 
@@ -23,7 +29,7 @@ a [CSE IITH](https://cse.iith.ac.in/) Alumnus and I play Table Tennis.
 
 ## Publications
 
- 1. Sparsh Mittal, and Shraiysh Vaishay. "A survey of techniques for optimizing deep learning on GPUs." Journal of Systems Architecture 99 (2019): 101635.
+ 1. Sparsh Mittal, and Shraiysh Vaishay. "A survey of techniques for optimizing deep learning on GPUs." Journal of Systems Architecture 99 (2019): 101635. 
 
 ## Projects and Open Source Contributions
 

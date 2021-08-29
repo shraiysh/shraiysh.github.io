@@ -2,3 +2,9 @@ title: Shraiysh Vaishay
 name: Shraiysh Vaishay
 description: Shraiysh's personal website
 markdown: kramdown
+
+nav:
+ - name: "GitHub"
+   link: "https://github.com/shraiysh/"
+ - name: "LinkedIn"
+   link: "https://www.linkedin.com/in/shraiysh/"
