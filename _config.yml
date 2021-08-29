@@ -3,8 +3,6 @@ name: Shraiysh Vaishay
 description: Shraiysh's personal website
 markdown: kramdown
 
-nav:
- - name: "GitHub"
-   link: "https://github.com/shraiysh/"
- - name: "LinkedIn"
-   link: "https://www.linkedin.com/in/shraiysh/"
+footer: yes
+footer_url: "Contact me"
+footer_text: "mailto:shraiysh@gmail.com"
