@@ -26,6 +26,8 @@ I am a Compiler Enginner at AMD, currently working on the Fortran team for HPC w
 ## Publications
 
  1. Sparsh Mittal, and Shraiysh Vaishay. "A survey of techniques for optimizing deep learning on GPUs." Journal of Systems Architecture 99 (2019): 101635.
+ 2. \[Patent\] Text Editing of Digital Images (P10089-US) (Submitted)
+ 3. \[Patent\] Color Representations For Textual Phrases (P10068-US) (Submitted)
 
 ## Projects and Open Source Contributions
 
