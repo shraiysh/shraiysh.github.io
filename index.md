@@ -6,6 +6,15 @@ layout: default
 
 I am a Compiler Enginner at AMD, currently working on the Fortran team for HPC workloads. I am working on static data race detection for OpenMP programs(LLVM) and on static analysis of C/C++ code for coding standards. I have also worked on MLIR. I am also interested in Programming Languages and Operating Systems. I am a [CSE IITH](https://cse.iith.ac.in/) Alumnus and I play Table Tennis.
 
+## Education
+
+ - BTech (Hons.) in Computer Science and Engineering, 2021
+   : IIT Hyderabad
+ - Intermediate
+   : 11th and 12th Standard - Telangana State Board of Intermediate Education, Government of Telangana
+ - Highschool
+   : 10th Standard - I.C.S.E. Board
+
 ## Research Interests
 
  - Compilers
@@ -26,8 +35,8 @@ I am a Compiler Enginner at AMD, currently working on the Fortran team for HPC w
 ## Publications
 
  1. Sparsh Mittal, and Shraiysh Vaishay. "A survey of techniques for optimizing deep learning on GPUs." Journal of Systems Architecture 99 (2019): 101635. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1383762119302656), [PDF](https://www.researchgate.net/profile/Sparsh-Mittal-2/publication/335292390_A_Survey_of_Techniques_for_Optimizing_Deep_Learning_on_GPUs/links/5d5cff6ba6fdcc55e81c21fb/A-Survey-of-Techniques-for-Optimizing-Deep-Learning-on-GPUs.pdf)
- 2. \[Patent\] Text Editing of Digital Images (P10089-US) (Submitted)
- 3. \[Patent\] Color Representations For Textual Phrases (P10068-US) (Submitted)
+ 1. \[Patent\] Text Editing of Digital Images (P10089-US) (Submitted)
+ 1. \[Patent\] Color Representations For Textual Phrases (P10068-US) (Submitted)
 
 ## Projects and Open Source Contributions
 
