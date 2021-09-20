@@ -34,9 +34,9 @@ I am a Compiler Enginner at AMD, currently working on the Fortran team for HPC w
 
 ## Publications
 
- 1. OpenMP aware MHP Analysis for Improved Static Data-Race Detection. Utpal Bora, **Shraiysh Vaishay**, Saurabh Joshi, Ramakrishna Upadrasta. The Seventh Annual Workshop on the LLVM Compiler Infrastructure in HPC (2021).
- 1. Generating Compositional Color Representations from Text. Paridhi Maheshwari, Nihal Jain, Praneetha Vaddamanu, Dhananjay Raut, **Shraiysh Vaishay** and Vishwa Vinay. CIKM 2021.
- 1. A survey of techniques for optimizing deep learning on GPUs. Sparsh Mittal, and **Shraiysh Vaishay**. Journal of Systems Architecture 99 (2019): 101635. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1383762119302656), [PDF](https://www.researchgate.net/profile/Sparsh-Mittal-2/publication/335292390_A_Survey_of_Techniques_for_Optimizing_Deep_Learning_on_GPUs/links/5d5cff6ba6fdcc55e81c21fb/A-Survey-of-Techniques-for-Optimizing-Deep-Learning-on-GPUs.pdf) 
+ 1. OpenMP aware MHP Analysis for Improved Static Data-Race Detection. Utpal Bora, __Shraiysh Vaishay__, Saurabh Joshi, Ramakrishna Upadrasta. The Seventh Annual Workshop on the LLVM Compiler Infrastructure in HPC (2021).
+ 1. Generating Compositional Color Representations from Text. Paridhi Maheshwari, Nihal Jain, Praneetha Vaddamanu, Dhananjay Raut, __Shraiysh Vaishay__ and Vishwa Vinay. CIKM 2021.
+ 1. A survey of techniques for optimizing deep learning on GPUs. Sparsh Mittal, and __Shraiysh Vaishay__. Journal of Systems Architecture 99 (2019): 101635. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1383762119302656), [PDF](https://www.researchgate.net/profile/Sparsh-Mittal-2/publication/335292390_A_Survey_of_Techniques_for_Optimizing_Deep_Learning_on_GPUs/links/5d5cff6ba6fdcc55e81c21fb/A-Survey-of-Techniques-for-Optimizing-Deep-Learning-on-GPUs.pdf) 
  1. \[Patent\] Text Editing of Digital Images (P10089-US) (Submitted)
  1. \[Patent\] Color Representations For Textual Phrases (P10068-US) (Submitted)
 
