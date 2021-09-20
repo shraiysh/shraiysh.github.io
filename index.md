@@ -45,7 +45,7 @@ I am a Compiler Enginner at AMD, currently working on the Fortran team for HPC w
  1. [Hoare-Logic Verifier](https://github.com/shraiysh/hoare-logic)
     : Contract verification - interpreter for language and array logic for classroom demonstration of the application of Hoare logic on a simple programming language and verify its correctness (using lex/yacc).
  1. Packet Filter
-    :Software Defined Machine Learning Assisted Packet Filtering using BERT.
+    : Software Defined Machine Learning Assisted Packet Filtering using BERT.
  1. [Code-Compliance](https://github.com/sbjoshi/code-compliance)
     : Worked on a static analysis of C/C++ programs (Code Compliance) using Clang/LLVM. Verified a subset of rules from certification standards like CERT, MISRA etc.
  1. [COOL - Classroom Object Oriented Language](https://github.com/shraiysh/CoolSemanticAnalyzer)
