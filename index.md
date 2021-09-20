@@ -4,7 +4,7 @@ layout: default
 
 ## About me
 
-I am a Compiler Enginner at AMD, currently working on the Fortran team for HPC workloads. I am working on static data race detection for OpenMP programs(LLVM) and on static analysis of C/C++ code for coding standards. I have also worked on MLIR. I am also interested in Programming Languages and Operating Systems. I am a [CSE IITH](https://cse.iith.ac.in/) Alumnus and I play Table Tennis.
+I am a Compiler Enginner at AMD, currently working on the Fortran team for HPC workloads. I am currently working on the LLVM Project. I am also interested in Programming Verification and Operating Systems. I am a [CSE IITH](https://cse.iith.ac.in/) Alumnus and I play Table Tennis.
 
 ## Education
 
