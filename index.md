@@ -63,6 +63,8 @@ I am a Compiler Enginner at AMD, currently working on the Fortran team for HPC w
 
  1. Compilers and Programming Languages
     : Experienced with Compiler Design. Worked with LLVM, MLIR, Clang and Flang. Designed and worked on a language for verifying simple programs using hoare logic. Also worked on COOL Compiler.
+ 1. Operating Systems, Distributed Systems, Parallel and Concurrent Programming
+    : Familiar with various problems and algorithms for distributed and parallel computing. Experience developing device drivers for linux.
  2. Languages
     : Familiar with a wide range of languages including C/C++, Python, Go and Java. Well versed in functional programming in Haskell.
  3. Git
