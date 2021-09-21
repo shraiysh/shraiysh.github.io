@@ -38,25 +38,25 @@ I am a Compiler Enginner at AMD, currently working on the Fortran team for HPC w
 
 ## Projects and Open Source Contributions
 
- 1. [Hoare-Logic Verifier](https://github.com/shraiysh/hoare-logic)
+ 1. [Hoare-Logic Verifier](https://github.com/shraiysh/hoare-logic){:target="_blank"}
     : Contract verification - interpreter for language and array logic for classroom demonstration of the application of Hoare logic on a simple programming language and verify its correctness (using lex/yacc).
  1. Crowds(Prism)
     : Implemented the Crowds protocol in Prism model checker and studied the the factors affecting probability of detection of initiator in an Anonymity System.
- 1. [A Lock-free Algorithm for Parallel MCTS](https://docs.google.com/presentation/d/e/2PACX-1vTS2mrHeUHU1jYR2RlOGx66zUqnogMqxDyRIVtt0OW2LhvTbFLb2IeumnF48llG43solHoAx96ncdNb/pub?start=true&loop=false&delayms=3000)
+ 1. [A Lock-free Algorithm for Parallel MCTS](https://docs.google.com/presentation/d/e/2PACX-1vTS2mrHeUHU1jYR2RlOGx66zUqnogMqxDyRIVtt0OW2LhvTbFLb2IeumnF48llG43solHoAx96ncdNb/pub?start=true&loop=false&delayms=3000){:target="_blank"}
     : Implemented and presented the paper _"S. A. Mirsoleimani., J. van den Herik. et al., “A lock-free algorithm for parallel mcts,” in Proceedings of the 10th International Conference on Agents and Artificial Intelligence - Volume 1: ICAART,, INSTICC. SciTePress, 2018."_ as a project in Distributed Computing
- 1. [Packet Filter](https://docs.google.com/presentation/d/e/2PACX-1vQKGdc8nNGeN534qGJjlar5AujqkA-cWRvMGmEd2G4t04BsO7yGZwxVZEphNkFW6VnNBAomdTPT1NhW/pub?start=true&loop=false&delayms=3000)
+ 1. [Packet Filter](https://docs.google.com/presentation/d/e/2PACX-1vQKGdc8nNGeN534qGJjlar5AujqkA-cWRvMGmEd2G4t04BsO7yGZwxVZEphNkFW6VnNBAomdTPT1NhW/pub?start=true&loop=false&delayms=3000){:target="_blank"}
     : Software Defined Machine Learning Assisted Packet Filtering using BERT.
  1. [Leader Election in Distributed Topologies](https://docs.google.com/presentation/d/e/2PACX-1vRnj_PhYkHhHhVklN4x5HmGgMOx036GSOJ7bTrObzovmXBCvQOEwxq4JWNQ7fu-CYsPZXN37N3f1rL2/pub?start=true&loop=false&delayms=3000){:target="_blank"}
     : Using Distance-vector algorithm along with modified Bully algorithm for efficient leader election in connected topologies.
- 1. [Code-Compliance](https://github.com/sbjoshi/code-compliance)
+ 1. [Code-Compliance](https://github.com/sbjoshi/code-compliance){:target="_blank"}
     : Worked on a static analysis of C/C++ programs (Code Compliance) using Clang/LLVM. Verified a subset of rules from certification standards like CERT, MISRA etc.
- 1. [COOL - Classroom Object Oriented Language](https://github.com/shraiysh/CoolSemanticAnalyzer)
+ 1. [COOL - Classroom Object Oriented Language](https://github.com/shraiysh/CoolSemanticAnalyzer){:target="_blank"}
     : Worked on writing Lexer, Parser, Semantic Analyzer and LLVM IR code generator for COOL as a part of classroom project (The code generator is a private repository).
- 1. [LLVM/MLIR Contributions](https://reviews.llvm.org/people/revisions/19492/)
+ 1. [LLVM/MLIR Contributions](https://reviews.llvm.org/people/revisions/19492/){:target="_blank"}
     : Worked on translation of LLVM Dialect in MLIR to LLVM IR facilitating wider code and target coverage for MLIR.
- 1. [HasQL](https://github.com/shraiysh/HaSSQL)
+ 1. [HasQL](https://github.com/shraiysh/HaSSQL){:target="_blank"}
     : Built query handlers (back-end) for a local database system with a simple query language, using functional programming in Haskell.
- 1. [GoTorrent](https://github.com/shraiysh/GoTorrent)
+ 1. [GoTorrent](https://github.com/shraiysh/GoTorrent){:target="_blank"}
     : Built messages and handled concurrent downloads of file fragments for a BitTorrent client in Go. Features include concurrent download from peers, concurrent download of multiple torrents and handling of abrupt termination of download.
 
 ## Skills
