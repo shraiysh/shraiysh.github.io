@@ -72,9 +72,10 @@ I am a Compiler Enginner at AMD, currently working on the Fortran team for HPC w
  4. Systems engineering
     : Server, network and storage administration, virtualization and containers, and experience with AWS.
 
-## Extracurricular
+## Extracurricular and Voluntary work
  1. Member of NSO(National Sports Organisation) at IIT Hyderabad (Table-Tennis)
- 2. Completed three years of certified classroom program of Abacus by BrainOBrain (2011-14)
+ 1. Completed three years of certified classroom program of Abacus by BrainOBrain (2011-14)
+ 1. Spreading awareness about vaccination among children in rural areas
 
 ## Contact
  - Mail - [shraiysh@gmail.com](mailto:shraiysh@gmail.com){:target="_blank"}
