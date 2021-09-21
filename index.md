@@ -40,6 +40,8 @@ I am a Compiler Enginner at AMD, currently working on the Fortran team for HPC w
 
  1. [Hoare-Logic Verifier](https://github.com/shraiysh/hoare-logic)
     : Contract verification - interpreter for language and array logic for classroom demonstration of the application of Hoare logic on a simple programming language and verify its correctness (using lex/yacc).
+ 1. Crowds(Prism)
+    : Implemented the Crowds protocol in Prism model checker and studied the the factors affecting probability of detection of initiator in an Anonymity System.
  1. [A Lock-free Algorithm for Parallel MCTS](https://docs.google.com/presentation/d/e/2PACX-1vTS2mrHeUHU1jYR2RlOGx66zUqnogMqxDyRIVtt0OW2LhvTbFLb2IeumnF48llG43solHoAx96ncdNb/pub?start=true&loop=false&delayms=3000)
     : Implemented and presented the paper _"S. A. Mirsoleimani., J. van den Herik. et al., “A lock-free algorithm for parallel mcts,” in Proceedings of the 10th International Conference on Agents and Artificial Intelligence - Volume 1: ICAART,, INSTICC. SciTePress, 2018."_ as a project in Distributed Computing
  1. [Packet Filter](https://docs.google.com/presentation/d/e/2PACX-1vQKGdc8nNGeN534qGJjlar5AujqkA-cWRvMGmEd2G4t04BsO7yGZwxVZEphNkFW6VnNBAomdTPT1NhW/pub?start=true&loop=false&delayms=3000)
