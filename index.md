@@ -46,7 +46,7 @@ I am a Compiler Enginner at AMD, currently working on the Fortran team for HPC w
     : Implemented and presented the paper _"S. A. Mirsoleimani., J. van den Herik. et al., “A lock-free algorithm for parallel mcts,” in Proceedings of the 10th International Conference on Agents and Artificial Intelligence - Volume 1: ICAART,, INSTICC. SciTePress, 2018."_ as a project in Distributed Computing
  1. [Packet Filter](https://docs.google.com/presentation/d/e/2PACX-1vQKGdc8nNGeN534qGJjlar5AujqkA-cWRvMGmEd2G4t04BsO7yGZwxVZEphNkFW6VnNBAomdTPT1NhW/pub?start=true&loop=false&delayms=3000)
     : Software Defined Machine Learning Assisted Packet Filtering using BERT.
- 1. [Leader Election in Distributed Topologies](https://docs.google.com/presentation/d/e/2PACX-1vRnj_PhYkHhHhVklN4x5HmGgMOx036GSOJ7bTrObzovmXBCvQOEwxq4JWNQ7fu-CYsPZXN37N3f1rL2/pub?start=true&loop=false&delayms=3000)
+ 1. [Leader Election in Distributed Topologies](https://docs.google.com/presentation/d/e/2PACX-1vRnj_PhYkHhHhVklN4x5HmGgMOx036GSOJ7bTrObzovmXBCvQOEwxq4JWNQ7fu-CYsPZXN37N3f1rL2/pub?start=true&loop=false&delayms=3000){:target="_blank"}
     : Using Distance-vector algorithm along with modified Bully algorithm for efficient leader election in connected topologies.
  1. [Code-Compliance](https://github.com/sbjoshi/code-compliance)
     : Worked on a static analysis of C/C++ programs (Code Compliance) using Clang/LLVM. Verified a subset of rules from certification standards like CERT, MISRA etc.
