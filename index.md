@@ -15,12 +15,6 @@ I am a Compiler Enginner at AMD, currently working on the Fortran team for HPC w
  - Highschool
    : 10th Standard - I.C.S.E. Board
 
-## Research Interests
-
- - Compilers
- - Programming Languages
- - Program Verification
-
 ## Internships and Experience
 
  1. System Design Engineer 2 at [AMD](https://www.amd.com/en) (June'20 - Present)
