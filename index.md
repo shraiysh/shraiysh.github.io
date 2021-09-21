@@ -4,7 +4,7 @@ layout: default
 
 ## About me
 
-I am a Compiler Enginner at AMD, currently working on the Fortran team for HPC workloads. I am currently working on the LLVM Project. I am also interested in Programming Verification and Operating Systems. I am a [CSE IITH](https://cse.iith.ac.in/) Alumnus and I play Table Tennis.
+I am a Compiler Enginner at AMD, currently working on the Fortran team for HPC workloads. I am currently working on the LLVM Project. I am also interested in Programming Verification and Operating Systems. I am a [CSE IITH](https://cse.iith.ac.in/){:target="_blank"} Alumnus and I play Table Tennis.
 
 ## Education
 
@@ -17,23 +17,23 @@ I am a Compiler Enginner at AMD, currently working on the Fortran team for HPC w
 
 ## Internships and Experience
 
- 1. System Design Engineer 2 at [AMD](https://www.amd.com/en) (June'20 - Present)
+ 1. System Design Engineer 2 at [AMD](https://www.amd.com/en){:target="_blank"} (June'20 - Present)
     : Working on CPU Performance Compiler, improving coverage and speed of the AMD Compiler for HPC.
- 2. Research Internship at [Adobe](https://research.adobe.com/) (May'20 - July'20)
+ 2. Research Internship at [Adobe](https://research.adobe.com/){:target="_blank"} (May'20 - July'20)
     : Worked with a team of five others, on generating a visual profile of (attribute, object) combinations using compositionality and context and leverage them for enhanced image editing applications based on textual user input.
- 3. Summer Internship at [NTT-Advanced Technology Corp, Japan](https://www.ntt-at.com/) (May'19-July'19)
+ 3. Summer Internship at [NTT-Advanced Technology Corp, Japan](https://www.ntt-at.com/){:target="_blank"} (May'19-July'19)
     : Worked on developing device drivers for a LoRa safety device and an interface to provide real-time readings about the same. Also worked on setting AWS IOT button for remote control on the safety device.
- 4. Teaching assistant at [IIT Hyderabad](https://www.iith.ac.in)
+ 4. Teaching assistant at [IIT Hyderabad](https://www.iith.ac.in){:target="_blank"}
     : Assisted students and teachers in various courses like Compilers, Principles of Programming Languages, Operating Systems, Computer Architecture and Software Engineering.
 
 ## Research
 
  1. OpenMP aware MHP Analysis for Improved Static Data-Race Detection. Utpal Bora, ___Shraiysh Vaishay___, Saurabh Joshi, Ramakrishna Upadrasta. The Seventh Annual Workshop on the LLVM Compiler Infrastructure in HPC (2021).
  1. Generating Compositional Color Representations from Text. Paridhi Maheshwari, Nihal Jain, Praneetha Vaddamanu, Dhananjay Raut, ___Shraiysh Vaishay___ and Vishwa Vinay. CIKM 2021.
- 1. A survey of techniques for optimizing deep learning on GPUs. Sparsh Mittal, and ___Shraiysh Vaishay___. Journal of Systems Architecture 99 (2019): 101635. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1383762119302656), [PDF](https://www.researchgate.net/profile/Sparsh-Mittal-2/publication/335292390_A_Survey_of_Techniques_for_Optimizing_Deep_Learning_on_GPUs/links/5d5cff6ba6fdcc55e81c21fb/A-Survey-of-Techniques-for-Optimizing-Deep-Learning-on-GPUs.pdf) 
+ 1. A survey of techniques for optimizing deep learning on GPUs. Sparsh Mittal, and ___Shraiysh Vaishay___. Journal of Systems Architecture 99 (2019): 101635. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1383762119302656){:target="_blank"}, [PDF](https://www.researchgate.net/profile/Sparsh-Mittal-2/publication/335292390_A_Survey_of_Techniques_for_Optimizing_Deep_Learning_on_GPUs/links/5d5cff6ba6fdcc55e81c21fb/A-Survey-of-Techniques-for-Optimizing-Deep-Learning-on-GPUs.pdf){:target="_blank"}
  1. \[Patent\] Text Editing of Digital Images (P10089-US) (Submitted)
  1. \[Patent\] Color Representations For Textual Phrases (P10068-US) (Submitted)
- 1. \[Seminar\] Presented a talk on “Athena: A new efficient automatic checker for security protocol analysis”. [slides](https://docs.google.com/presentation/d/e/2PACX-1vQCiocHu0lrK7rHddFmVteAVMLw6M98UqKiu5LtpxbYykxE7wVUaSNG4M1XmvmxvnjzG2Xl_fS5HFb4/pub?start=true&loop=false&delayms=3000)
+ 1. \[Seminar\] Presented a talk on “Athena: A new efficient automatic checker for security protocol analysis”. [slides](https://docs.google.com/presentation/d/e/2PACX-1vQCiocHu0lrK7rHddFmVteAVMLw6M98UqKiu5LtpxbYykxE7wVUaSNG4M1XmvmxvnjzG2Xl_fS5HFb4/pub?start=true&loop=false&delayms=3000){:target="_blank"}
 
 
 ## Projects and Open Source Contributions
@@ -75,6 +75,6 @@ I am a Compiler Enginner at AMD, currently working on the Fortran team for HPC w
  2. Completed three years of certified classroom program of Abacus by BrainOBrain (2011-14)
 
 ## Contact
- - Mail - [shraiysh@gmail.com](mailto:shraiysh@gmail.com)
- - GitHub - [github.com/shraiysh](https://www.github.com/shraiysh)
- - LinkedIn - [linkedin.com/in/shraiysh](https://www.linkedin.com/in/shraiysh)
+ - Mail - [shraiysh@gmail.com](mailto:shraiysh@gmail.com){:target="_blank"}
+ - GitHub - [github.com/shraiysh](https://www.github.com/shraiysh){:target="_blank"}
+ - LinkedIn - [linkedin.com/in/shraiysh](https://www.linkedin.com/in/shraiysh){:target="_blank"}
