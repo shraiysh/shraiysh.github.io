@@ -40,16 +40,18 @@ I am a Compiler Enginner at AMD, currently working on the Fortran team for HPC w
 
  1. [Hoare-Logic Verifier](https://github.com/shraiysh/hoare-logic){:target="_blank"}
     : Contract verification - interpreter for language and array logic for classroom demonstration of the application of Hoare logic on a simple programming language and verify its correctness (using lex/yacc).
- 1. [Crowds(Prism)](https://docs.google.com/presentation/d/e/2PACX-1vSy0dNglvENSDv6Kbc3kyHo7sFa12Z27qhUcGOE_3aFM5ei_d8BE1yI71zpSsVhUgJI9lUTwCrmnVFA/pub?start=true&loop=false&delayms=3000){:target="_blank"}
-    : Implemented the Crowds protocol in Prism model checker and studied the the factors affecting probability of detection of initiator in an Anonymity System. We also suggested an algorithm for placing corrupt nodes to optimally detect the source of a message.
  1. [A Lock-free Algorithm for Parallel MCTS](https://docs.google.com/presentation/d/e/2PACX-1vTS2mrHeUHU1jYR2RlOGx66zUqnogMqxDyRIVtt0OW2LhvTbFLb2IeumnF48llG43solHoAx96ncdNb/pub?start=true&loop=false&delayms=3000){:target="_blank"}
     : Implemented and presented the paper _"S. A. Mirsoleimani., J. van den Herik. et al., “A lock-free algorithm for parallel mcts,” in Proceedings of the 10th International Conference on Agents and Artificial Intelligence - Volume 1: ICAART,, INSTICC. SciTePress, 2018."_ as a project in Distributed Computing
  1. [Packet Filter](https://docs.google.com/presentation/d/e/2PACX-1vSy0qPCuvT4F4HbuV-6uYv1VU4EWuvsbJi4iaGF6G52nN0e73Ty-b04-qij_-X102e-O5m-ioba_kmf/pub?start=true&loop=false&delayms=3000){:target="_blank"}
     : Software Defined Packet Filtering using BERT for analysis of network traffic.
  1. [Leader Election in Distributed Topologies](https://docs.google.com/presentation/d/e/2PACX-1vRnj_PhYkHhHhVklN4x5HmGgMOx036GSOJ7bTrObzovmXBCvQOEwxq4JWNQ7fu-CYsPZXN37N3f1rL2/pub?start=true&loop=false&delayms=3000){:target="_blank"}
     : Using Distance-vector algorithm along with modified Bully algorithm for efficient leader election in connected topologies.
+ 1. [Crowds(Prism)](https://docs.google.com/presentation/d/e/2PACX-1vSy0dNglvENSDv6Kbc3kyHo7sFa12Z27qhUcGOE_3aFM5ei_d8BE1yI71zpSsVhUgJI9lUTwCrmnVFA/pub?start=true&loop=false&delayms=3000){:target="_blank"}
+    : Implemented the Crowds protocol in Prism model checker and studied the the factors affecting probability of detection of initiator in an Anonymity System. We also suggested an algorithm for placing corrupt nodes to optimally detect the source of a message.
  1. [Code-Compliance](https://github.com/sbjoshi/code-compliance){:target="_blank"}
     : Worked on a static analysis of C/C++ programs (Code Compliance) using Clang/LLVM. Verified a subset of rules from certification standards like CERT, MISRA etc.
+ 1. [Distant Supervision for Relation Extraction without Labeled data](https://docs.google.com/presentation/d/e/2PACX-1vSnG_jufeATH79HqWqzC_mLHEDcfHQGmdsIeM3J7xatYTkcdRutyNy8KPt2w-2E72Ot0-iShHgyzjBf/pub?start=false&loop=false&delayms=3000){:target="_blank"}
+    : We utilise embeddings from BERT and fine tune it using manifold mixup to achieve distantly supervised relation extraction as a course project on Data Mining.
  1. [COOL - Classroom Object Oriented Language](https://github.com/shraiysh/CoolSemanticAnalyzer){:target="_blank"}
     : Worked on writing Lexer, Parser, Semantic Analyzer and LLVM IR code generator for COOL as a part of classroom project (The code generator is a private repository).
  1. [LLVM/MLIR Contributions](https://reviews.llvm.org/people/revisions/19492/){:target="_blank"}
