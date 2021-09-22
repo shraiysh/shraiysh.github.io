@@ -44,7 +44,7 @@ I am a Compiler Enginner at AMD, currently working on the Fortran team for HPC w
     : Implemented the Crowds protocol in Prism model checker and studied the the factors affecting probability of detection of initiator in an Anonymity System. We also suggested an algorithm for placing corrupt nodes to optimally detect the source of a message.
  1. [A Lock-free Algorithm for Parallel MCTS](https://docs.google.com/presentation/d/e/2PACX-1vTS2mrHeUHU1jYR2RlOGx66zUqnogMqxDyRIVtt0OW2LhvTbFLb2IeumnF48llG43solHoAx96ncdNb/pub?start=true&loop=false&delayms=3000){:target="_blank"}
     : Implemented and presented the paper _"S. A. Mirsoleimani., J. van den Herik. et al., “A lock-free algorithm for parallel mcts,” in Proceedings of the 10th International Conference on Agents and Artificial Intelligence - Volume 1: ICAART,, INSTICC. SciTePress, 2018."_ as a project in Distributed Computing
- 1. [Packet Filter](https://docs.google.com/presentation/d/e/2PACX-1vQKGdc8nNGeN534qGJjlar5AujqkA-cWRvMGmEd2G4t04BsO7yGZwxVZEphNkFW6VnNBAomdTPT1NhW/pub?start=true&loop=false&delayms=3000){:target="_blank"}
+ 1. Packet Filter
     : Software Defined Packet Filtering using BERT for analysis of network traffic.
  1. [Leader Election in Distributed Topologies](https://docs.google.com/presentation/d/e/2PACX-1vRnj_PhYkHhHhVklN4x5HmGgMOx036GSOJ7bTrObzovmXBCvQOEwxq4JWNQ7fu-CYsPZXN37N3f1rL2/pub?start=true&loop=false&delayms=3000){:target="_blank"}
     : Using Distance-vector algorithm along with modified Bully algorithm for efficient leader election in connected topologies.
