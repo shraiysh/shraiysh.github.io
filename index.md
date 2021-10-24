@@ -28,7 +28,7 @@ I am a Compiler Enginner at AMD, currently working on the Fortran team for HPC w
 
 ## Research
 
- 1. OpenMP aware MHP Analysis for Improved Static Data-Race Detection. Utpal Bora, ___Shraiysh Vaishay___, Saurabh Joshi, Ramakrishna Upadrasta. The Seventh Annual Workshop on the LLVM Compiler Infrastructure in HPC (2021). [Link](https://utpalbora.com/documents/PIA.pdf){:target="_blank"}
+ 1. OpenMP aware MHP Analysis for Improved Static Data-Race Detection. Utpal Bora, ___Shraiysh Vaishay___, Saurabh Joshi, Ramakrishna Upadrasta. The Seventh Annual Workshop on the LLVM Compiler Infrastructure in HPC (2021). [Link](PIA.pdf){:target="_blank"}
  1. Generating Compositional Color Representations from Text. Paridhi Maheshwari, Nihal Jain, Praneetha Vaddamanu, Dhananjay Raut, ___Shraiysh Vaishay___ and Vishwa Vinay. CIKM 2021. [Link](https://arxiv.org/abs/2109.10477){:target="_blank"}
  1. A survey of techniques for optimizing deep learning on GPUs. Sparsh Mittal, and ___Shraiysh Vaishay___. Journal of Systems Architecture 99 (2019): 101635. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1383762119302656){:target="_blank"}, [PDF](https://www.researchgate.net/profile/Sparsh-Mittal-2/publication/335292390_A_Survey_of_Techniques_for_Optimizing_Deep_Learning_on_GPUs/links/5d5cff6ba6fdcc55e81c21fb/A-Survey-of-Techniques-for-Optimizing-Deep-Learning-on-GPUs.pdf){:target="_blank"}
  1. \[Patent\] Text Editing of Digital Images (P10089-US) (Submitted)
