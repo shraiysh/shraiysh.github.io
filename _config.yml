@@ -24,6 +24,8 @@ github_username:  shraiysh
 google_analytics: G-RY0CZ8KK82
 author: Shraiysh Vaishay
 
+header_pages: []
+
 # Build settings
 markdown: kramdown
 theme: minima
