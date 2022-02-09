@@ -1,8 +1,11 @@
 ---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
 layout: default
 ---
 
-## About me
+# About
 
 I am a Compiler Enginner at AMD, currently working on the Fortran team for HPC workloads. I am currently working on the LLVM Project. I am also interested in Programming Verification and Operating Systems. I am a [CSE IITH](https://cse.iith.ac.in/){:target="_blank"} Alumnus and I play Table Tennis.
 
@@ -30,9 +33,9 @@ I am a Compiler Enginner at AMD, currently working on the Fortran team for HPC w
 
 #### Peer Reviewed Publications
 
- 1. Utpal Bora, Shraiysh Vaishay, Saurabh Joshi, and Ramakrishna Upadrasta. 2021. OpenMP aware MHP Analysis for Improved Static Data-Race Detection. In Proceedings of the Seventh Annual Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC ’21), St. Louis, Missouri, USA. [[PDF]](PIA.pdf){:target="_blank"}
- 1. Paridhi Maheshwari, Nihal Jain, Praneetha Vaddamanu, Dhananjay Raut, Shraiysh Vaishay, and Vishwa Vinay. 2021. Generating Compositional Color Representations from Text. In Proceedings of the 30th ACM International Conference on Information & Knowledge Management (CIKM ’21), Association for Computing Machinery, Virtual Event, Queensland, Australia, 1222–1231. DOI:[https://doi.org/10.1145/3459637.3482346](https://dl.acm.org/doi/10.1145/3459637.3482346){:target="_blank"} [[PDF]](GeneratingCompositionalColorRepresentationsfromText.pdf){:target="_blank"}
- 1. Sparsh Mittal and Shraiysh Vaishay. 2019. A survey of techniques for optimizing deep learning on GPUs. Journal of Systems Architecture 99, (2019), 101635. DOI:[https://doi.org/https://doi.org/10.1016/j.sysarc.2019.101635](https://doi.org/https://doi.org/10.1016/j.sysarc.2019.101635){:target="_blank"}, [[PDF]](2019_JSA_MittalVaishay_Survey_DeepLearningOnGPUs.pdf){:target="_blank"}
+ 1. Utpal Bora, Shraiysh Vaishay, Saurabh Joshi, and Ramakrishna Upadrasta. 2021. OpenMP aware MHP Analysis for Improved Static Data-Race Detection. In Proceedings of the Seventh Annual Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC ’21), St. Louis, Missouri, USA. [[PDF]](pdf/PIA.pdf){:target="_blank"}
+ 1. Paridhi Maheshwari, Nihal Jain, Praneetha Vaddamanu, Dhananjay Raut, Shraiysh Vaishay, and Vishwa Vinay. 2021. Generating Compositional Color Representations from Text. In Proceedings of the 30th ACM International Conference on Information & Knowledge Management (CIKM ’21), Association for Computing Machinery, Virtual Event, Queensland, Australia, 1222–1231. DOI:[https://doi.org/10.1145/3459637.3482346](https://dl.acm.org/doi/10.1145/3459637.3482346){:target="_blank"} [[PDF]](pdf/GeneratingCompositionalColorRepresentationsfromText.pdf){:target="_blank"}
+ 1. Sparsh Mittal and Shraiysh Vaishay. 2019. A survey of techniques for optimizing deep learning on GPUs. Journal of Systems Architecture 99, (2019), 101635. DOI:[https://doi.org/https://doi.org/10.1016/j.sysarc.2019.101635](https://doi.org/https://doi.org/10.1016/j.sysarc.2019.101635){:target="_blank"}, [[PDF]](pdf/2019_JSA_MittalVaishay_Survey_DeepLearningOnGPUs.pdf){:target="_blank"}
 
 #### Other Research Work
 
@@ -83,8 +86,3 @@ I am a Compiler Enginner at AMD, currently working on the Fortran team for HPC w
  1. Member of NSO(National Sports Organisation) at IIT Hyderabad (Table-Tennis)
  1. Completed three years of certified classroom program of Abacus by BrainOBrain (2011-14)
  1. Spreading awareness about vaccination among children in rural areas
-
-## Contact
- - Mail - [shraiysh@gmail.com](mailto:shraiysh@gmail.com){:target="_blank"}
- - GitHub - [github.com/shraiysh](https://www.github.com/shraiysh){:target="_blank"}
- - LinkedIn - [linkedin.com/in/shraiysh](https://www.linkedin.com/in/shraiysh){:target="_blank"}
