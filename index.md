@@ -11,6 +11,8 @@ I am a Compiler Enginner at AMD, currently working on the Fortran team for HPC w
 
 ## Education
 
+ - Master of Computer Science, 2023
+   : Rice University
  - BTech (Hons.) in Computer Science and Engineering, 2021
    : IIT Hyderabad
  - Intermediate
@@ -20,7 +22,8 @@ I am a Compiler Enginner at AMD, currently working on the Fortran team for HPC w
 
 ## Internships and Experience
 
- 1. System Design Engineer 2 at [AMD](https://www.amd.com/en){:target="_blank"} (June'20 - Present)
+ 1. SWE Frameworks Intern at [Apple](https://www.apple.com){:target="_blank"} (May'23 - Aug'23)
+ 1. System Design Engineer 2 at [AMD](https://www.amd.com/en){:target="_blank"} (June'20 - Aug'22)
     : Working on CPU Performance Compiler, improving coverage and speed of the AMD Compiler for HPC.
  2. Research Internship at [Adobe](https://research.adobe.com/){:target="_blank"} (May'20 - July'20)
     : Worked with a team of five others, on generating a visual profile of (attribute, object) combinations using compositionality and context and leverage them for enhanced image editing applications based on textual user input.
