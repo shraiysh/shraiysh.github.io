@@ -7,7 +7,7 @@ layout: default
 
 # About
 
-I am a Compiler Enginner at AMD, currently working on the Fortran team for HPC workloads. I am currently working on the LLVM Project. I am also interested in Programming Verification and Operating Systems. I am a [CSE IITH](https://cse.iith.ac.in/){:target="_blank"} Alumnus and I play Table Tennis.
+I am a Deep learning compiler Enginner at NVIDIA, currently working on XLA and JAX. I have worked with LLVM and MLIR in the past and am also interested in Programming Verification and Operating Systems. I am a [CSE IITH](https://cse.iith.ac.in/){:target="_blank"} and [Rice University](https://csweb.rice.edu/){:target="_blank"} Alumnus and I play Table Tennis.
 
 ## Education
 
@@ -22,7 +22,11 @@ I am a Compiler Enginner at AMD, currently working on the Fortran team for HPC w
 
 ## Internships and Experience
 
+ 1. Deep Learning Compiler Engineer at [NVIDIA](https://www.nvidia.com/en-us/){:target="_blank"} (Jan'24-Present)
+ 1. Compiler Intern at [AMD](https://www.amd.com/en){:target="_blank"} (Aug'23 - Dec'23)
+    : Worked on OpenMP for AMD GPUs, by contributing to the LLVM project (flang subproject).
  1. SWE Frameworks Intern at [Apple](https://www.apple.com){:target="_blank"} (May'23 - Aug'23)
+    : Developed a tool to experiment with finding cross project dependencies on macOS and iOS.
  1. System Design Engineer 2 at [AMD](https://www.amd.com/en){:target="_blank"} (June'20 - Aug'22)
     : Working on CPU Performance Compiler, improving coverage and speed of the AMD Compiler for HPC.
  2. Research Internship at [Adobe](https://research.adobe.com/){:target="_blank"} (May'20 - July'20)
