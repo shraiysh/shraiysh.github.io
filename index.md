@@ -69,7 +69,7 @@ I am a Deep learning compiler Enginner at NVIDIA, currently working on XLA and J
     : We utilise embeddings from BERT and fine tune it using manifold mixup to achieve distantly supervised relation extraction as a course project on Data Mining.
  1. [COOL - Classroom Object Oriented Language](https://github.com/shraiysh/CoolSemanticAnalyzer){:target="_blank"}
     : Worked on writing Lexer, Parser, Semantic Analyzer and LLVM IR code generator for COOL as a part of classroom project (The code generator is a private repository).
- 1. [LLVM/MLIR Contributions](https://reviews.llvm.org/people/revisions/19492/){:target="_blank"}
+ 1. [LLVM/MLIR Contributions](https://shraiysh.github.io/commits.html){:target="_blank"}
     : Worked on translation of LLVM Dialect in MLIR to LLVM IR facilitating wider code and target coverage for MLIR.
  1. [HasQL](https://github.com/shraiysh/HaSSQL){:target="_blank"}
     : Built query handlers (back-end) for a local database system with a simple query language, using functional programming in Haskell.
